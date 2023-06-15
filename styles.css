@@ -1,0 +1,29 @@
+
+h1{
+    color:rgb(51, 26, 26);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color:black;
+    text-align: center;
+}
+body{
+    background-image: url(O.jpg);
+    background-repeat: no-repeat;
+    background-size: 150%
+}
+ol{
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    
+}
+ul{
+    font-weight: bolder;
+    font-style: italic;
+    text-align:center
+}
